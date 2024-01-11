@@ -1,6 +1,6 @@
-# scroll
+# Quiz APP
 
-A new Flutter project.
+A new Flutter project as part of my internship training.
 
 ## Getting Started
 
